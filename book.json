@@ -1,6 +1,6 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
+    "title": "Ambi's Glory",
+    "author": "Ambi",
     "description": "select * from learn",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -34,8 +34,8 @@
         },
         "github-buttons": {
             "buttons": [{
-                "user": "Blankj",
-                "repo": "glory",
+                "user": "AmbitionLover",
+                "repo": "Valine-Admin",
                 "type": "star",
                 "size": "small",
                 "count": true
