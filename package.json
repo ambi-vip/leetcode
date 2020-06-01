@@ -21,8 +21,7 @@
   "scripts": {
     "build": "gitbook build ./content ./docs",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "concurrently \"git add .\" \"git commit -m 'ss' \" \"git push\" ",
-    "start": "git add . && git commit -m 'ss' && git push"
+    "serve": "git add . && git commit -m 'ss' && git push"
   },
   "repository": {
     "type": "git",
