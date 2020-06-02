@@ -21,7 +21,7 @@
   "scripts": {
     "build": "gitbook build ./content ./docs",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "gitbook build && git add . && git commit -m 'ss' && git push"
+    "serve": "gitbook build && git add . && git commit -m '工具自动上传' && git push"
   },
   "repository": {
     "type": "git",
