@@ -10,6 +10,9 @@
     "structure": {
         "readme": "README.md"
     },
+    "variables": {
+        "billing": "<center>广告广告</center><center>广告广告</center>" 
+    },
     "links": {
         "sidebar": {
             "Ambi博客": "https://sakura.ambitlu.work/",
