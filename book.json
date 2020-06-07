@@ -24,7 +24,7 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
+        "katex",
         "github",
         "github-buttons",
         "donate",
@@ -39,7 +39,7 @@
         "github-buttons": {
             "buttons": [{
                 "user": "AmbitionLover",
-                "repo": "Valine-Admin",
+                "repo": "leetcode",
                 "type": "star",
                 "size": "small",
                 "count": true
@@ -79,8 +79,8 @@
             "showLevel": false
         },
         "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
+            "shortcut": "./source/images/favicon.ico",
+            "bookmark": "./source/images/favicon.ico",
             "appleTouch": "./source/images/apple-touch-icon.jpg",
             "appleTouchMore": {
                 "120x120": "./source/images/apple-touch-icon.jpg",
